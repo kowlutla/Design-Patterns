@@ -1,4 +1,4 @@
-package com.kowlutla.creational.factory;
+package com.kowlutla.creational.factory.pizza;
 
 public class PizzaFactory {
 
