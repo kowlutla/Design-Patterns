@@ -1,11 +1,11 @@
-package com.kowlutla.behavioural.template.datarende;
+package com.kowlutla.behavioural.template.datarender;
 
-public class CSVDataRenderer extends DataRenderer {
+public class XMLDataRenderer extends DataRenderer {
 
 	@Override
 	public String readData() {
 
-		return "CSV Data";
+		return "XML Data";
 	}
 
 	@Override

@@ -1,4 +1,4 @@
-package com.kowlutla.behavioural.template.datarende;
+package com.kowlutla.behavioural.template.datarender;
 
 public class Client {
 
