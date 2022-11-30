@@ -8,3 +8,4 @@ public class DomesticPlan extends Plan {
 	}
 
 }
+
