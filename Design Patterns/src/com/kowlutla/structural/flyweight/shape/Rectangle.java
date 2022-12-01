@@ -1,4 +1,4 @@
-package com.kowlutla.structural.adapter.flyweight;
+package com.kowlutla.structural.flyweight.shape;
 
 public class Rectangle extends Shape {
 

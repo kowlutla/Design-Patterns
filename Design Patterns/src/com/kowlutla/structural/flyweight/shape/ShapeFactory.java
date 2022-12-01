@@ -1,4 +1,4 @@
-package com.kowlutla.structural.adapter.flyweight;
+package com.kowlutla.structural.flyweight.shape;
 
 import java.util.HashMap;
 import java.util.Map;
